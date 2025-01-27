@@ -36,8 +36,8 @@ pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/prantikm07/EyesOn-AI-Powered-Drowsiness-Detection.git
-cd EyesOn-AI-Powered-Drowsiness-Detection
+git clone https://github.com/suswagata05/Smart-Vision-Safety-System.git
+cd Smart-Vision-Safety-System
 ```
 
 ### 2. Set up a virtual environment (optional but recommended)
