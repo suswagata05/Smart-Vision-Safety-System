@@ -9,7 +9,7 @@ from datetime import datetime
 # Thresholds and counters
 min_aer_day = 0.20
 min_aer_night = 0.17
-mar_threshold = 0.12
+mar_threshold = 0.15
 eye_arc_frames = 10
 yawn_frames = 2
 
